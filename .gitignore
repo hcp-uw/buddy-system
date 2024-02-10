@@ -2,4 +2,8 @@ starter-frontend/node_modules/*
 starter-frontend/build/*
 *__pycache__*
 *node_modules*
-.env
+*.env*
+
+*credentials.json*
+
+*venv*
